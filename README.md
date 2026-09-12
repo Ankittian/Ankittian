@@ -29,7 +29,7 @@
   <br><br>
 
   <p>
-    <a href="https://ankitrath.dev"><img src="https://img.shields.io/badge/PORTFOLIO-ankitrath.dev-E62429?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ankitrath.dev-E62429?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/LinkedIn-ankit—rath-E62429?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrath58%40gmail.com-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/Ankittian"><img src="https://img.shields.io/badge/GitHub-@Ankittian-E62429?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -44,7 +44,7 @@
 
 >*"Anyone can wear the mask. You could wear the mask."*
 
-Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech student at **IIT Bhilai** (CGPA 8.65/10, Class of '27) swinging through the neon city of **Machine Learning, Deep Learning & AI**.
+Hey there ,  I'm **Ankit Rath** — a final-year B.Tech student at **IIT Bhilai** (CGPA 8.65/10, Class of '27) swinging through the neon city of **Machine Learning, Deep Learning & AI**.
 
 | | |
 | :--- | :--- |
@@ -52,7 +52,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 | ⚡ **TCS Research** *(May '26 – Jul '26)* | Computer Vision & DL Intern — built background **inpainting** pipelines + **depth-conditioned 3D Gaussian Splatting** frameworks for multiview 3D reconstruction, cutting single-view hallucinations by **10%**. |
 | 🕸️ **Clairvyn AI** *(Aug '25 – Dec '25)* | AI/ML Intern — designed a **rule-driven RAG workflow** that turns knowledge bases into CAD-ready floor plans, with **DXF export** integration. |
 | 🏙️ **Leadership** | **Sports Media Head** at IIT Bhilai · **SMP Student Mentor** · **OLF Foundation Mentor** · Founding member of the **Fintech Club**. |
-| 🎮 **Off the Keyboard** | Table tennis, cricket, gaming, and travel diaries (Mainpat, Vizag...) |
+| 🎮 **Off the Keyboard** | Cricket. Table Tennis, Gaming, Singing |
 | 📫 **Send a Signal** | [ankitrath58@gmail.com](mailto:ankitrath58@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ankit-rath-678b57309) · [Portfolio](https://ankitrath.dev) |
 
 <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
@@ -75,11 +75,11 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 | **ML / AI** | PyTorch, TensorFlow, LLMs (LLaMA · Gemini · OpenAI), RAG, AI Agents, Prompt Engineering, LLM Evaluation, Computer Vision (YOLO · OpenCV), NLP |
 | **GenAI** | LangChain, LangGraph, LangSmith, HuggingFace, RAGAS, Agent Workflows |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Auth, WebSockets |
-| **MLOps / Deployment** | FastAPI, Flask, Docker, Kubernetes, MLflow |
+| **MLOps / Deployment** | FastAPI, Docker, MLflow |
 | **Databases** | MongoDB, PostgreSQL, MySQL, FAISS, Pinecone, Vector Databases |
-| **Frontend** | React.js, HTML/CSS, Streamlit |
+| **Frontend** |  HTML/CSS, Streamlit |
 | **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK |
-| **Tools** | Git, Linux, Postman, Jest, AWS (S3 · EC2), Kafka |
+| **Tools** | Git, Linux, Postman, Jest, AWS (S3 · EC2) |
 
 </details>
 
@@ -158,5 +158,5 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 ---
 
 <div align="center">
-  <i>"I'm Miles Morales. But you can call me the Prowler of Code."</i> 🕷️🔌
+  <i>"How will you know when you are ready ?. You wont. It's just a leap of faith !"</i> 🕷️🔌
 </div>
