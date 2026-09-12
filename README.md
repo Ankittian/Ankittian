@@ -1,6 +1,16 @@
 <div align="center">
+  <!-- MILES MORALES THEMED BACKGROUND BANNER -->
+  <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/miles-banner.svg" width="100%" alt="Miles Morales themed banner"/>
+
+  <br>
+
+  <!-- SPIDER-VERSE WIDESCREEN ANIMATED STRIP -->
+  <img src="https://media.giphy.com/media/Yk211oEXnbpH00Tgv3/giphy.gif" width="100%" alt="Into the Spider-Verse animated strip"/>
+
+  <br>
+
   <!-- MILES MORALES SWINGING GIF -->
-  <img src="https://media.giphy.com/media/l41lZcJMpE2X0r6aA/giphy.gif" width="420" alt="Miles Morales Swinging"/>
+  <img src="https://media.giphy.com/media/4NvsxuQArv2ZHScVgC/giphy.gif" width="380" alt="Spider-Man swinging"/>
 
   <br>
 
@@ -26,15 +36,15 @@
   </p>
 </div>
 
-<br>
-
----
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 🕷️ Into the Spider-Verse (About Me)
 
+<img align="right" src="https://media.giphy.com/media/j9UFqazmMmEwsV69W8/giphy.gif" width="170" alt="Glitch Miles Morales GIF"/>
+
 >*"Anyone can wear the mask. You could wear the mask."*
 
-Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech student at **IIT Bhilai** (CGPA 8.65/10, Class of '27) swinging through the neon city of **Machine Learning, Deep Learning & AI** [spiderverse-gif](https://media.giphy.com/media/xT9IgF8RyQwEKJIFuo/giphy.gif).
+Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech student at **IIT Bhilai** (CGPA 8.65/10, Class of '27) swinging through the neon city of **Machine Learning, Deep Learning & AI**.
 
 | | |
 | :--- | :--- |
@@ -45,7 +55,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 | 🎮 **Off the Keyboard** | Table tennis, cricket, gaming, and travel diaries (Mainpat, Vizag...) |
 | 📫 **Send a Signal** | [ankitrath58@gmail.com](mailto:ankitrath58@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ankit-rath-678b57309) · [Portfolio](https://ankitrath.dev) |
 
-<br>
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## ⚡ Web-Shooter Tech Stack
 
@@ -73,16 +83,29 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 
 </details>
 
-<br>
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 💥 Featured Missions (Projects)
+
+<img align="left" src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="220" alt="Miles in Brooklyn GIF"/>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | ⚕️ **[RAG-Powered Medical Assistant Chatbot](https://github.com/Ankittian/Medical-Assistant-Chatbot-app)** | Secure RAG-based medical chatbot over a curated clinical knowledge base with **95% retrieval accuracy** — hallucination guardrails, unsafe-output filters, monitored & evaluated with **RAGAS + LangSmith**. | Python · FAISS · Gemini · Pinecone · LangChain · RAGAS |
 | ✈️ **[LangGraph Powered AI Trip Planner](https://github.com/Ankittian/Langraph_powered_AI_Trip_Planner)** | ReAct-style LangGraph agent generating personalised multi-day itineraries with live weather, place discovery, currency conversion & budget tools — **SSE streaming**, Gemini/Groq switching, and Markdown export. | LangGraph · FastAPI · Streamlit · Gemini/Groq · SSE |
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/langgraph-0D1117?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 📈 My "Miles"-tones (GitHub Stats)
 
@@ -94,7 +117,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
   <img src="https://streak-stats.demolab.com?user=Ankittian&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429" alt="Ankit's Contribution Streak"/>
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 🏆 Achievements Unlocked
 
@@ -107,19 +130,22 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
   </a>
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 🐍 Tracking the Web Lines (Contribution Graph)
 
+> The snake below is generated **automatically every day** by the [`.github/workflows/snake.yml`](.github/workflows/snake.yml) workflow and served from the `output` branch.
+
 <div align="center">
   <picture>
-    <!-- Point this at your actual snake output branch once you set up the Action -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
   </picture>
+  <br><br>
+  <img alt="github contribution grid snake gif" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.gif" width="100%">
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
 ## 🕸️ Swinging Around the Web (Connect)
 
@@ -131,7 +157,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/10xzOZ7n8N72Wg/giphy.gif" width="180" alt="Spiderman GIF"/>
+  <img src="https://media.giphy.com/media/VJZRVKI1nZizV5bZkE/giphy.gif" width="220" alt="Spider-Man GIF"/>
 </div>
 
 ---

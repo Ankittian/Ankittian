@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Miles Morales themed banner for Ankit Rath">
+  <defs>
+    <style>
+      @keyframes pulse { 0%,100% { opacity: 0.35; } 50% { opacity: 0.7; } }
+      @keyframes drift { 0% { transform: translate(0,0); } 100% { transform: translate(28px,28px); } }
+      .glow-anim { animation: pulse 4s ease-in-out infinite; }
+      .dots-anim { animation: drift 6s linear infinite; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a10"/>
+      <stop offset="45%" stop-color="#4a0510"/>
+      <stop offset="100%" stop-color="#e62429"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="4" fill="#ffffff" opacity="0.14"/>
+      <circle cx="18" cy="18" r="6" fill="#ffffff" opacity="0.09"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e62429" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <g class="dots-anim">
+    <rect width="1200" height="360" fill="url(#dots)"/>
+  </g>
+
+  <!-- corner spider web (top-left) -->
+  <g stroke="#ffffff" stroke-opacity="0.28" fill="none" stroke-width="1.6">
+    <path d="M0 0 H520"/>
+    <path d="M0 0 V520"/>
+    <path d="M0 0 L470 240"/>
+    <path d="M0 0 L290 470"/>
+    <path d="M0 0 L470 420"/>
+    <path d="M0 0 L120 520"/>
+    <path d="M0 0 L520 130"/>
+    <path d="M60 60 Q120 190 300 240 Q400 270 470 240"/>
+    <path d="M120 120 Q200 280 360 300 Q430 270 470 240"/>
+    <path d="M0 400 Q160 400 200 500"/>
+    <path d="M0 180 Q200 200 250 470"/>
+  </g>
+
+  <!-- spider emblem with glow -->
+  <circle cx="600" cy="118" r="130" fill="url(#glow)" class="glow-anim" filter="url(#blur)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round">
+    <path d="M570 108 Q528 78 512 62"/>
+    <path d="M580 96 Q542 50 550 32"/>
+    <path d="M590 88 Q566 40 590 20"/>
+    <path d="M598 98 Q614 50 632 34"/>
+    <path d="M572 130 Q514 128 494 150"/>
+    <path d="M578 142 Q540 170 538 190"/>
+    <path d="M598 138 Q608 180 634 188"/>
+    <path d="M606 124 Q664 112 690 122"/>
+  </g>
+  <circle cx="600" cy="118" rx="32" ry="25" fill="#ffffff"/>
+  <path d="M600 96 l7 14 -15 8 z" fill="#e62429"/>
+  <circle cx="592" cy="112" r="2.5" fill="#e62429"/>
+  <circle cx="607" cy="114" r="2.5" fill="#e62429"/>
+
+  <!-- glitch wordmark -->
+  <g font-family="Impact, 'Arial Black', 'Segoe UI', Arial, sans-serif" font-weight="900" letter-spacing="2">
+    <text x="602" y="232" text-anchor="middle" font-size="112" fill="#2de9f6" opacity="0.75">ANKIT RATH</text>
+    <text x="597" y="232" text-anchor="middle" font-size="112" fill="#ff0033">ANKIT RATH</text>
+    <text x="600" y="232" text-anchor="middle" font-size="112" fill="#ffffff" stroke="#0a0a10" stroke-width="4" paint-order="stroke fill">ANKIT RATH</text>
+  </g>
+
+  <!-- tagline -->
+  <text x="600" y="292" text-anchor="middle" font-size="30" fill="#ffd7d8" font-style="italic" font-family="Georgia, 'Times New Roman', serif" letter-spacing="4">
+    swinging through the code-verse &#183; ML &#183; DL &#183; CV
+  </text>
+
+  <text x="600" y="340" text-anchor="middle" font-size="18" fill="#ffb3b6" letter-spacing="10" font-family="Georgia, 'Times New Roman', serif">
+    -- ANYONE CAN WEAR THE MASK --
+  </text>
+
+  <!-- bottom web line -->
+  <path d="M0 356 Q300 344 600 356 Q900 368 1200 356" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5"/>
+</svg>

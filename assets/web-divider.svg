@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" role="img" aria-label="Spider-web themed divider">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e62429" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#e62429" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#e62429" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#e62429" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e62429" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="url(#line)" stroke-width="3"/>
+
+  <!-- center web knot -->
+  <g stroke="#e62429" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="600" y1="4" x2="600" y2="56"/>
+    <line x1="570" y1="30" x2="630" y2="30"/>
+    <line x1="579" y1="9" x2="621" y2="51"/>
+    <line x1="621" y1="9" x2="579" y2="51"/>
+    <circle cx="600" cy="30" r="9" stroke-width="2.5"/>
+    <circle cx="600" cy="30" r="3" fill="#e62429" stroke="none"/>
+  </g>
+
+  <!-- side anchor webs -->
+  <g stroke="#e62429" stroke-opacity="0.55" stroke-width="1.6" fill="none">
+    <path d="M120 30 Q220 18 360 30"/>
+    <path d="M120 30 Q220 42 360 30"/>
+    <path d="M840 30 Q980 18 1080 30"/>
+    <path d="M840 30 Q980 42 1080 30"/>
+  </g>
+</svg>
