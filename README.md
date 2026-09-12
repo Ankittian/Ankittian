@@ -85,6 +85,28 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 
 <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
+## 🐍 Tracking the Web Lines (Contribution Graph)
+
+> The snake below is generated **automatically every day** by the [`.github/workflows/snake.yml`](.github/workflows/snake.yml) workflow and served from the `output` branch.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+### 📈 My "Miles"-tones (Stats)
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429" width="48%" alt="Ankit's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429" width="48%" alt="Ankit's Top Languages"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Ankittian&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429" alt="Ankit's Contribution Streak"/>
+</div>
+
 ## 💥 Featured Missions (Projects)
 
 <img align="left" src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="220" alt="Miles in Brooklyn GIF"/>
@@ -107,18 +129,6 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 
 <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
 
-## 📈 My "Miles"-tones (GitHub Stats)
-
-<!-- GITHUB README STATS — 'radical' theme to match Miles' Red, Black & Neon vibes -->
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429" width="48%" alt="Ankit's GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429" width="48%" alt="Ankit's Top Languages"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Ankittian&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429" alt="Ankit's Contribution Streak"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
-
 ## 🏆 Achievements Unlocked
 
 <img align="left" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80" alt="Miles mask GIF"/>
@@ -128,18 +138,6 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ankittian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
   </a>
-</div>
-
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
-
-## 🐍 Tracking the Web Lines (Contribution Graph)
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
