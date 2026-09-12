@@ -1,19 +1,83 @@
-# 💫 About Me:
-Pre-final year @ IIT Bhilai | 🧠Aspiring Data Scientist & AI Engineer. 📊Leveraging mathematics and data to build scalable applications for real-world problems.
+<div align="center">
+  <!-- COOL GIFS Component from DEV.to article -->
+  <img src="https://media.giphy.com/media/l41lZcJMpE2X0r6aA/giphy.gif" width="400" alt="Miles Morales Swinging"/>
+  
+  <br>
 
+  <!-- TYPING SVG Component from DEV.to article (Miles Morales Red & Black Theme) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E3242B&center=true&vCenter=true&width=600&lines=What's+up+danger%3F;I'm+Ankit+Rath;AI+%26+Deep+Learning+Innovator;IIT+Bhilai+Engineer" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ankit Rath](https://www.linkedin.com/in/ankit-rath-678b57309?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankittian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankittian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankittian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🕷️ Into the Spider-Verse (About Me)
 
+*"Anyone can wear the mask. You could wear the mask."* 
+
+Welcome to my corner of the web! I am **Ankit Rath**, a B.Tech student in Engineering at the Indian Institute of Technology Bhilai (Expected 2027)[cite: 1]. I swing through the complex city of Artificial Intelligence, Computer Vision, and Machine Learning[cite: 1]. 
+
+- ⚡ **Current Mission:** Engineering background inpainting pipelines and multiview 3D reconstructions (skills honed during my internship at TCS Research)[cite: 1].
+- 🕸️ **Superpowers:** Designing rule-driven RAG workflows, LLMs, and building reliable AI agents, as demonstrated during my time at Clairvyn AI[cite: 1].
+- 🏙️ **Leadership:** I serve as the Sports Media Head and Student Mentor at IIT Bhilai[cite: 1]. 
+- 📫 **Send a Signal:** [ankitrath58@gmail.com](mailto:ankitrath58@gmail.com)[cite: 1] | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)[cite: 1]
+
+<br>
+
+## ⚡ Web-Shooter Tech Stack 
+<!-- SKILL ICONS Component from DEV.to article -->
+I craft my gadgets using these technologies:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git,docker,nodejs,express,mongodb,postgres,mysql,react,html,css,aws,pytorch,tensorflow,fastapi,flask&theme=dark" alt="Ankit's Skills"/>
+  </a>
+</div>
+
+<br>
+
+## 💥 Featured Missions (Projects)
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⚕️ **[RAG-Powered Medical Assistant Chatbot](https://github.com/Ankittian/Medical-Assistant-Chatbot-app)[cite: 1]** | Built and evaluated a secure RAG-based medical chatbot with 95% retrieval accuracy and strict hallucination guardrails[cite: 1]. | *Python, FAISS, Gemini, Pinecone*[cite: 1] |
+| ✈️ **[Langraph Powered AI Trip Planner](https://github.com/Ankittian/Langraph_powered_AI_Trip_Planner.git)[cite: 1]** | Built an AI trip planner implementing a ReAct-style agent for multi-day itineraries with real-time weather and budget intelligence[cite: 1]. | *FastAPI, FAISS, CLIP, ControlNet*[cite: 1] |
+
+<br>
+
+## 📈 My "Miles"-tones (GitHub Stats)
+<!-- GITHUB README STATS Component from DEV.to article -->
+<!-- Styled with 'radical' theme to match Miles Morales' Red, Black, and Neon vibes -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E3242B&icon_color=E3242B" width="48%" alt="Ankit's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E3242B" width="48%" alt="Ankit's Top Languages"/>
+</div>
+
+<br>
+
+## 🏆 Achievements Unlocked
+<!-- TROPHY ACHIEVEMENTS Component from DEV.to article -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ankittian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
+  </a>
+</div>
+
+<br>
+
+## 🐍 Tracking the Web Lines (Contribution Graph)
+<!-- SNAKE CONTRIBUTION GRAPH Component from DEV.to article -->
+<div align="center">
+  <picture>
+    <!-- Replace the repository paths with your actual snake output repository branch when you set up the Action -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankittian&icon=0&color=11)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <i>"I'm Miles Morales. But you can call me the Prowler of Code."</i> 🕷️🔌
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
