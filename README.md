@@ -111,8 +111,8 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 
 <!-- GITHUB README STATS — 'radical' theme to match Miles' Red, Black & Neon vibes -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429" width="48%" alt="Ankit's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429" width="48%" alt="Ankit's Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429" width="48%" alt="Ankit's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429" width="48%" alt="Ankit's Top Languages"/>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Ankittian&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429" alt="Ankit's Contribution Streak"/>
 </div>
@@ -126,7 +126,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 <!-- TROPHY ACHIEVEMENTS -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ankittian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ankittian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
   </a>
 </div>
 
@@ -134,15 +134,12 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 
 ## 🐍 Tracking the Web Lines (Contribution Graph)
 
-> The snake below is generated **automatically every day** by the [`.github/workflows/snake.yml`](.github/workflows/snake.yml) workflow and served from the `output` branch.
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
   </picture>
-  <br><br>
-  <img alt="github contribution grid snake gif" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.gif" width="100%">
 </div>
 
 <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
@@ -150,7 +147,7 @@ Welcome to my corner of the web! I'm **Ankit Rath** — a final-year B.Tech stud
 ## 🕸️ Swinging Around the Web (Connect)
 
 <div align="center">
-  <a href="https://ankitrath.dev"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ankitrath.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=E62429" alt="Portfolio" /></a>
+  <a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ankitrath.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=E62429" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/LinkedIn-ankit—rath-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E62429" alt="LinkedIn" /></a>
   <a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrath58%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E62429" alt="Email" /></a>
   <a href="https://github.com/Ankittian"><img src="https://img.shields.io/badge/GitHub-@Ankittian-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=E62429" alt="GitHub" /></a>

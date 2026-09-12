@@ -1,82 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Miles Morales themed banner for Ankit Rath">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Miles Morales themed banner for Ankit Rath">
   <defs>
     <style>
-      @keyframes pulse { 0%,100% { opacity: 0.35; } 50% { opacity: 0.7; } }
-      @keyframes drift { 0% { transform: translate(0,0); } 100% { transform: translate(28px,28px); } }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: .75; } }
       .glow-anim { animation: pulse 4s ease-in-out infinite; }
-      .dots-anim { animation: drift 6s linear infinite; }
     </style>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a10"/>
-      <stop offset="45%" stop-color="#4a0510"/>
-      <stop offset="100%" stop-color="#e62429"/>
+      <stop offset="0%" stop-color="#0b0b10"/>
+      <stop offset="55%" stop-color="#12101a"/>
+      <stop offset="100%" stop-color="#2a0510"/>
     </linearGradient>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="6" cy="6" r="4" fill="#ffffff" opacity="0.14"/>
-      <circle cx="18" cy="18" r="6" fill="#ffffff" opacity="0.09"/>
-    </pattern>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+    <radialGradient id="glow" cx="80%" cy="55%" r="80%">
+      <stop offset="0%" stop-color="#ff2a33" stop-opacity="0.9"/>
+      <stop offset="45%" stop-color="#e62429" stop-opacity="0.45"/>
       <stop offset="100%" stop-color="#e62429" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="3.6" fill="#ffffff" opacity="0.10"/>
+      <circle cx="18.5" cy="18.5" r="5" fill="#ffffff" opacity="0.06"/>
+    </pattern>
     <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="9"/>
+      <feGaussianBlur stdDeviation="14"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <g class="dots-anim">
-    <rect width="1200" height="360" fill="url(#dots)"/>
+  <!-- base -->
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow)"/>
+  <rect width="1200" height="340" fill="url(#dots)" opacity="0.85"/>
+
+  <!-- web strands from top-left -->
+  <g stroke="#ffffff" stroke-opacity="0.16" fill="none" stroke-width="1.4">
+    <path d="M0 0 H560"/>
+    <path d="M0 0 L510 300"/>
+    <path d="M0 0 L260 340"/>
+    <path d="M0 0 L560 120"/>
+    <path d="M0 340 Q140 300 300 340"/>
+    <path d="M0 0 V340"/>
+    <path d="M60 60 Q180 190 330 200 Q450 200 490 158"/>
+    <path d="M120 120 Q240 250 380 252 Q450 240 470 206"/>
   </g>
 
-  <!-- corner spider web (top-left) -->
-  <g stroke="#ffffff" stroke-opacity="0.28" fill="none" stroke-width="1.6">
-    <path d="M0 0 H520"/>
-    <path d="M0 0 V520"/>
-    <path d="M0 0 L470 240"/>
-    <path d="M0 0 L290 470"/>
-    <path d="M0 0 L470 420"/>
-    <path d="M0 0 L120 520"/>
-    <path d="M0 0 L520 130"/>
-    <path d="M60 60 Q120 190 300 240 Q400 270 470 240"/>
-    <path d="M120 120 Q200 280 360 300 Q430 270 470 240"/>
-    <path d="M0 400 Q160 400 200 500"/>
-    <path d="M0 180 Q200 200 250 470"/>
+  <!-- pulsing halo behind emblem -->
+  <circle cx="900" cy="168" r="150" fill="url(#glow)" class="glow-anim" filter="url(#blur)"/>
+
+  <!-- spider emblem -->
+  <g fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round">
+    <path d="M874 132 Q816 96 792 58"/>
+    <path d="M884 116 Q834 50 850 18"/>
+    <path d="M928 116 Q978 50 962 18"/>
+    <path d="M928 132 Q988 96 1012 58"/>
+    <path d="M872 174 Q808 174 778 200"/>
+    <path d="M882 194 Q838 226 838 254"/>
+    <path d="M928 174 Q1004 174 1034 200"/>
+    <path d="M928 194 Q972 226 972 254"/>
+  </g>
+  <ellipse cx="900" cy="176" rx="48" ry="44" fill="#ffffff"/>
+  <circle cx="900" cy="124" r="30" fill="#ffffff"/>
+  <path d="M889 132 l7 12 -15 8 z" fill="#0b0b10"/>
+  <path d="M911 132 l-7 12 15 8 z" fill="#0b0b10"/>
+
+  <!-- text -->
+  <g fill="#ffffff">
+    <text x="120" y="86" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="17" letter-spacing="8" fill="#ff9a9d" font-weight="bold">PROWLER OF CODE</text>
+    <rect x="120" y="108" width="104" height="9" fill="#e62429"/>
+    <text x="118" y="176" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="86" font-weight="900" letter-spacing="5">ANKIT RATH</text>
+    <text x="120" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" letter-spacing="2" fill="#ffd0d2">
+      swinging through the code-verse &#183; AI &#183; ML &#183; CV
+    </text>
   </g>
 
-  <!-- spider emblem with glow -->
-  <circle cx="600" cy="118" r="130" fill="url(#glow)" class="glow-anim" filter="url(#blur)"/>
-  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round">
-    <path d="M570 108 Q528 78 512 62"/>
-    <path d="M580 96 Q542 50 550 32"/>
-    <path d="M590 88 Q566 40 590 20"/>
-    <path d="M598 98 Q614 50 632 34"/>
-    <path d="M572 130 Q514 128 494 150"/>
-    <path d="M578 142 Q540 170 538 190"/>
-    <path d="M598 138 Q608 180 634 188"/>
-    <path d="M606 124 Q664 112 690 122"/>
-  </g>
-  <circle cx="600" cy="118" rx="32" ry="25" fill="#ffffff"/>
-  <path d="M600 96 l7 14 -15 8 z" fill="#e62429"/>
-  <circle cx="592" cy="112" r="2.5" fill="#e62429"/>
-  <circle cx="607" cy="114" r="2.5" fill="#e62429"/>
-
-  <!-- glitch wordmark -->
-  <g font-family="Impact, 'Arial Black', 'Segoe UI', Arial, sans-serif" font-weight="900" letter-spacing="2">
-    <text x="602" y="232" text-anchor="middle" font-size="112" fill="#2de9f6" opacity="0.75">ANKIT RATH</text>
-    <text x="597" y="232" text-anchor="middle" font-size="112" fill="#ff0033">ANKIT RATH</text>
-    <text x="600" y="232" text-anchor="middle" font-size="112" fill="#ffffff" stroke="#0a0a10" stroke-width="4" paint-order="stroke fill">ANKIT RATH</text>
-  </g>
-
-  <!-- tagline -->
-  <text x="600" y="292" text-anchor="middle" font-size="30" fill="#ffd7d8" font-style="italic" font-family="Georgia, 'Times New Roman', serif" letter-spacing="4">
-    swinging through the code-verse &#183; ML &#183; DL &#183; CV
-  </text>
-
-  <text x="600" y="340" text-anchor="middle" font-size="18" fill="#ffb3b6" letter-spacing="10" font-family="Georgia, 'Times New Roman', serif">
-    -- ANYONE CAN WEAR THE MASK --
-  </text>
-
-  <!-- bottom web line -->
-  <path d="M0 356 Q300 344 600 356 Q900 368 1200 356" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5"/>
+  <!-- bottom divider line -->
+  <path d="M0 332 Q300 322 600 332 Q900 342 1200 332" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2"/>
 </svg>
