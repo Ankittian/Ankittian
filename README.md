@@ -1,162 +1,147 @@
+<!--
+  ΛNKIT RΛTH — the profile as a film.
+  Crimson key-art theme, matched to the portfolio: blood-red grunge,
+  white silk ribbons, black letterbox, Michroma type, clapperboard slates.
+-->
+
 <div align="center">
-  <!-- MILES MORALES THEMED BACKGROUND BANNER -->
-  <img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/miles-banner.svg" width="100%" alt="Miles Morales themed banner"/>
 
-  <br>
+<a href="https://portfolio-no8ankit.vercel.app/">
+  <img src="assets/hero.svg" width="100%" alt="ANKIT RATH — AI Agents · Automation · Tech · Innovation"/>
+</a>
 
-  <!-- SPIDER-VERSE WIDESCREEN ANIMATED STRIP -->
-  <img src="https://media.giphy.com/media/Yk211oEXnbpH00Tgv3/giphy.gif" width="100%" alt="Into the Spider-Verse animated strip"/>
+<img src="assets/tagline.svg" width="100%" alt="Code in the dark. Ship at light speed."/>
 
-  <br>
+<br/>
 
-  <!-- MILES MORALES SWINGING GIF -->
-  <img src="https://media.giphy.com/media/4NvsxuQArv2ZHScVgC/giphy.gif" width="380" alt="Spider-Man swinging"/>
+<a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/NOW_SHOWING-ankitrath.dev-8e0a12?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0506" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/LinkedIn-ankit--rath-8e0a12?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0506" alt="LinkedIn"/></a>
+<a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrath58@gmail.com-8e0a12?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0506" alt="Email"/></a>
+<a href="https://github.com/Ankittian"><img src="https://img.shields.io/badge/GitHub-@Ankittian-8e0a12?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0506" alt="GitHub"/></a>
 
-  <br>
+<img src="https://komarev.com/ghpvc/?username=Ankittian&label=TICKETS%20SOLD&style=flat-square&color=8e0a12&labelColor=0a0506" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Ankittian?style=flat-square&label=AUDIENCE&color=8e0a12&labelColor=0a0506" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ankittian?style=flat-square&label=REVIEWS&color=8e0a12&labelColor=0a0506" alt="Stars"/>
 
-  <!-- TYPING SVG — Miles Morales Red & Black Theme -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E62429&center=true&vCenter=true&width=640&lines=What's+up+danger%3F;I'm+Ankit+Rath;AI+%26+Deep+Learning+Innovator;IIT+Bhilai+'27;Ex-TCS+Research+Intern;CV+%C2%B7+3DGS+%C2%B7+RAG+%C2%B7+LangGraph" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- LIVE BADGES -->
-  <img src="https://komarev.com/ghpvc/?username=Ankittian&label=Spider%20Sightings&style=for-the-badge&color=E62429" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ankittian?style=for-the-badge&color=E62429&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ankittian?style=for-the-badge&color=E62429&label=Stars%20Earned" alt="GitHub Stars" />
-
-  <br><br>
-
-  <p>
-    <a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ankitrath.dev-E62429?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/LinkedIn-ankit—rath-E62429?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrath58%40gmail.com-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/Ankittian"><img src="https://img.shields.io/badge/GitHub-@Ankittian-E62429?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
+<br/>
 
-## 🕷️ Into the Spider-Verse (About Me)
+<img src="assets/slate-02.svg" width="100%" alt="Scene 02 — The Protagonist"/>
 
-<img align="right" src="https://media.giphy.com/media/j9UFqazmMmEwsV69W8/giphy.gif" width="170" alt="Glitch Miles Morales GIF"/>
+<img align="right" src="assets/key-art.jpg" width="250" alt="Key art — a figure wrapped in white silk ribbons"/>
 
->*"Anyone can wear the mask. You could wear the mask."*
+> *“How will you know when you're ready? You won't. It's just a leap of faith.”*
 
-Hey there ,  I'm **Ankit Rath** — a final-year B.Tech student at **IIT Bhilai** (CGPA 8.65/10, Class of '27) swinging through the neon city of **Machine Learning, Deep Learning & AI**.
+**Ankit Rath** — final-year B.Tech at **[IIT Bhilai](https://www.iitbhilai.ac.in/)** (Class of '27, CGPA 8.65), building high-precision AI systems: **3D Gaussian Splatting** pipelines, **Agentic RAG** workflows and **computer vision** that holds up outside the notebook.
 
-| | |
-| :--- | :--- |
-| 🎓 **Origin Story** | Final-year B.Tech at [**IIT Bhilai**](https://www.iitbhilai.ac.in/) — heavy focus on ML, DL & AI. |
-| ⚡ **TCS Research** *(May '26 – Jul '26)* | Computer Vision & DL Intern — built background **inpainting** pipelines + **depth-conditioned 3D Gaussian Splatting** frameworks for multiview 3D reconstruction, cutting single-view hallucinations by **10%**. |
-| 🕸️ **Clairvyn AI** *(Aug '25 – Dec '25)* | AI/ML Intern — designed a **rule-driven RAG workflow** that turns knowledge bases into CAD-ready floor plans, with **DXF export** integration. |
-| 🏙️ **Leadership** | **Sports Media Head** at IIT Bhilai · **SMP Student Mentor** · **OLF Foundation Mentor** · Founding member of the **Fintech Club**. |
-| 🎮 **Off the Keyboard** | Cricket. Table Tennis, Gaming, Singing |
-| 📫 **Send a Signal** | [ankitrath58@gmail.com](mailto:ankitrath58@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ankit-rath-678b57309) · [Portfolio](https://ankitrath.dev) |
+```yaml
+role:        AI Researcher & Developer
+based_in:    IIT Bhilai, India
+genre:       Computer Vision · Deep Learning · LLM Systems
+now_filming: depth-conditioned 3D reconstruction
+off_screen:  cricket · table tennis · gaming · singing
+signal:      ankitrath58@gmail.com
+```
 
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
+<br clear="right"/>
 
-## ⚡ Web-Shooter Tech Stack
+<img src="assets/slate-03.svg" width="100%" alt="Scene 03 — The Journey"/>
 
-<!-- SKILL ICONS -->
+| REEL | PRODUCTION | WHAT HAPPENED ON SET |
+| :--: | :--- | :--- |
+| **01** | **TCS Research** · CV & DL Intern<br/><sub>May '26 — Jul '26</sub> | Built background **inpainting** pipelines and a **depth-conditioned 3D Gaussian Splatting** framework for multiview reconstruction — cut single-view hallucinations by **10%**. |
+| **02** | **[Clairvyn AI](https://www.clairvyn.com/)** · AI/ML Intern<br/><sub>Aug '25 — Dec '25</sub> | Designed a **rule-driven RAG workflow** that turns knowledge bases into CAD-ready floor plans, with **DXF export** wired end-to-end. |
+| **03** | **IIT Bhilai** · B.Tech<br/><sub>2023 — 2027</sub> | Heavy focus on ML, DL & AI. CGPA **8.65 / 10**. |
+
+<img src="assets/slate-04.svg" width="100%" alt="Scene 04 — The Arsenal"/>
+
 <div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,sql,matlab,git,linux,docker,kubernetes,nodejs,express,mongodb,postgres,mysql,react,html,css,aws,pytorch,tensorflow,fastapi,flask&theme=dark" alt="Ankit's Skills"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,pytorch,tensorflow,fastapi,flask,docker,kubernetes,aws,linux&theme=dark&perline=12" alt="Core stack"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,react,html,css,git,matlab,latex,vscode&theme=dark&perline=12" alt="Supporting stack"/>
 </div>
 
 <details>
-  <summary align="center"><b>🧪 Full Gadget List</b></summary>
+<summary><b>▸ FULL CREW LIST</b></summary>
+<br/>
 
-| Category | Arsenal |
+| DEPARTMENT | CREW |
 | :--- | :--- |
-| **Languages** | Python, C/C++, JavaScript, SQL, MATLAB, CUDA, LaTeX |
-| **ML / AI** | PyTorch, TensorFlow, LLMs (LLaMA · Gemini · OpenAI), RAG, AI Agents, Prompt Engineering, LLM Evaluation, Computer Vision (YOLO · OpenCV), NLP |
-| **GenAI** | LangChain, LangGraph, LangSmith, HuggingFace, RAGAS, Agent Workflows |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Auth, WebSockets |
-| **MLOps / Deployment** | FastAPI, Docker, MLflow |
-| **Databases** | MongoDB, PostgreSQL, MySQL, FAISS, Pinecone, Vector Databases |
-| **Frontend** |  HTML/CSS, Streamlit |
-| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK |
-| **Tools** | Git, Linux, Postman, Jest, AWS (S3 · EC2) |
+| **Languages** | Python · C/C++ · JavaScript · SQL · MATLAB · CUDA · LaTeX |
+| **ML / AI** | PyTorch · TensorFlow · LLMs (LLaMA · Gemini · OpenAI) · RAG · AI Agents · Prompt Engineering · LLM Evaluation · YOLO · OpenCV · NLP |
+| **GenAI** | LangChain · LangGraph · LangSmith · HuggingFace · RAGAS · Agent Workflows |
+| **Backend** | Node.js · Express.js · REST APIs · JWT Auth · WebSockets |
+| **MLOps** | FastAPI · Docker · MLflow |
+| **Databases** | MongoDB · PostgreSQL · MySQL · FAISS · Pinecone · Vector DBs |
+| **Frontend** | HTML/CSS · Streamlit |
+| **Data Science** | NumPy · Pandas · Matplotlib · Seaborn · Plotly · NLTK |
+| **Tools** | Git · Linux · Postman · Jest · AWS (S3 · EC2) |
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
+<img src="assets/slate-05.svg" width="100%" alt="Scene 05 — The Works"/>
 
-## 🐍 Tracking the Web Lines (Contribution Graph)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Ankittian/Medical-Assistant-Chatbot-app"><img src="assets/poster-medical-rag.jpg" width="100%" alt="RAG-Powered Medical Assistant poster"/></a>
 
-> The snake below is generated **automatically every day** by the [`.github/workflows/snake.yml`](.github/workflows/snake.yml) workflow and served from the `output` branch.
+<sub>FEATURE 01 · RATED **95% RETRIEVAL ACCURACY**</sub>
+### [RAG-Powered Medical Assistant](https://github.com/Ankittian/Medical-Assistant-Chatbot-app)
+A secure RAG chatbot over a curated clinical knowledge base — hallucination guardrails, unsafe-output filters, monitored and evaluated with **RAGAS + LangSmith**.
+
+<img src="https://img.shields.io/badge/LangChain-0a0506?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0a0506?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-0a0506?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-0a0506?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/RAGAS-8e0a12?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Ankittian/Langraph_powered_AI_Trip_Planner"><img src="assets/poster-trip-planner.jpg" width="100%" alt="LangGraph AI Trip Planner poster"/></a>
+
+<sub>FEATURE 02 · NOW **STREAMING** (SSE)</sub>
+### [LangGraph AI Trip Planner](https://github.com/Ankittian/Langraph_powered_AI_Trip_Planner)
+A ReAct-style LangGraph agent that plans multi-day itineraries with live weather, place discovery, currency conversion and budget tools — Gemini/Groq switching and Markdown export.
+
+<img src="https://img.shields.io/badge/LangGraph-0a0506?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0a0506?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-0a0506?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-0a0506?style=flat-square"/> <img src="https://img.shields.io/badge/SSE-8e0a12?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<img src="assets/slate-06.svg" width="100%" alt="Scene 06 — The Numbers"/>
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ankittian&show_icons=true&hide_border=true&border_radius=14&bg_color=220103&title_color=ff3445&text_color=f6f3f0&icon_color=ff3445&ring_color=ff3445&custom_title=Box%20Office" height="170" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankittian&layout=compact&hide_border=true&border_radius=14&bg_color=220103&title_color=ff3445&text_color=f6f3f0&custom_title=Screen%20Time%20by%20Language" height="170" alt="Top languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Ankittian&hide_border=true&border_radius=14&background=220103&stroke=4A0408&ring=FF3445&fire=FF3445&currStreakNum=F6F3F0&currStreakLabel=FF3445&sideNums=F6F3F0&sideLabels=F6F3F0&dates=C9A0A3" alt="Contribution streak"/>
+  <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankittian/Ankittian/output/snake-crimson-dark.svg">
+    <img alt="Contribution grid, eaten by a crimson snake" src="https://raw.githubusercontent.com/Ankittian/Ankittian/output/snake-crimson-light.svg">
   </picture>
 </div>
 
-<br>
+<img src="assets/slate-07.svg" width="100%" alt="Scene 07 — The Ensemble"/>
 
-### 📈 My "Miles"-tones (Stats)
+| ROLE | PLAYED AS |
+| :--- | :--- |
+| 🎥 **Sports Media Head** | Leads sports media coverage at IIT Bhilai |
+| 🧭 **SMP Student Mentor** | Guiding first-years through their opening act |
+| 🤝 **OLF Foundation Mentor** | Teaching and mentoring beyond campus |
+| 📈 **Fintech Club** | Founding member |
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ankittian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=E62429" width="48%" alt="Ankit's GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankittian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E62429" width="48%" alt="Ankit's Top Languages"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Ankittian&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429" alt="Ankit's Contribution Streak"/>
-</div>
-
-## 💥 Featured Missions (Projects)
-
-<img align="left" src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="220" alt="Miles in Brooklyn GIF"/>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ⚕️ **[RAG-Powered Medical Assistant Chatbot](https://github.com/Ankittian/Medical-Assistant-Chatbot-app)** | Secure RAG-based medical chatbot over a curated clinical knowledge base with **95% retrieval accuracy** — hallucination guardrails, unsafe-output filters, monitored & evaluated with **RAGAS + LangSmith**. | Python · FAISS · Gemini · Pinecone · LangChain · RAGAS |
-| ✈️ **[LangGraph Powered AI Trip Planner](https://github.com/Ankittian/Langraph_powered_AI_Trip_Planner)** | ReAct-style LangGraph agent generating personalised multi-day itineraries with live weather, place discovery, currency conversion & budget tools — **SSE streaming**, Gemini/Groq switching, and Markdown export. | LangGraph · FastAPI · Streamlit · Gemini/Groq · SSE |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/langgraph-0D1117?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
-
-## 🏆 Achievements Unlocked
-
-<img align="left" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80" alt="Miles mask GIF"/>
-
-<!-- TROPHY ACHIEVEMENTS -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ankittian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
-  </a>
-</div>
-
-<img src="https://raw.githubusercontent.com/Ankittian/Ankittian/main/assets/web-divider.svg" width="100%" alt="Spider web divider"/>
-
-## 🕸️ Swinging Around the Web (Connect)
+<img src="assets/slate-08.svg" width="100%" alt="Scene 08 — The Final Act"/>
 
 <div align="center">
-  <a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ankitrath.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=E62429" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/LinkedIn-ankit—rath-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E62429" alt="LinkedIn" /></a>
-  <a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrath58%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E62429" alt="Email" /></a>
-  <a href="https://github.com/Ankittian"><img src="https://img.shields.io/badge/GitHub-@Ankittian-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=E62429" alt="GitHub" /></a>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VJZRVKI1nZizV5bZkE/giphy.gif" width="220" alt="Spider-Man GIF"/>
-</div>
+<img src="assets/finale.svg" width="100%" alt="The End… or is it? Coming soon — your project, starring us both."/>
 
----
+**Open to collaborations in AI / CV.** The fastest way to reach me is email — I reply quickly.
 
-<div align="center">
-  <i>"How will you know when you are ready ?. You wont. It's just a leap of faith !"</i> 🕷️🔌
+<a href="mailto:ankitrath58@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-ankitrath58@gmail.com-ff3445?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0506" alt="Say hello"/></a>
+<a href="https://www.linkedin.com/in/ankit-rath-678b57309"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-8e0a12?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0506" alt="LinkedIn"/></a>
+<a href="https://portfolio-no8ankit.vercel.app/"><img src="https://img.shields.io/badge/WATCH_THE_FILM-Portfolio-8e0a12?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0506" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="assets/credits.svg" width="100%" alt="End credits — written and directed by Ankit Rath"/>
+
 </div>
